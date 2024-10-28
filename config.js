@@ -46,11 +46,11 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // Wajib diisi ya kak!, kalo ga punya biarin aja, biar ada creditsnya :v
-global.sig = 'https://www.instagram.com/nvkenn_'
-global.sgh = 'https://github.com/nvhitori'
-global.sgc = 'https://chat.whatsapp.com/KL2YTdMq2np6QIhas42RCa'
+global.sig = 'https://www.instagram.com/teknisi.anime'
+global.sgh = 'https://github.com/Teknisi-Anime'
+global.sgc = '_'
 global.sdc = " "
-global.snh = 'https://xhitori.my.id'
+global.snh = '_'
 
 /*============== PAYMENT ==============*/
 global.pdana = '_'
@@ -63,7 +63,7 @@ global.psaweria = 'https://saweria.co/TeknisiAnime'
 /*============== NOMOR ==============*/
 global.nomorbot = '6285171198283'
 global.nomorown = '628981904040'
-global.namebot = 'suika'
+global.namebot = 'Suika-Chan'
 global.nameown = 'cristoper morgan'
 
 
