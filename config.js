@@ -53,12 +53,12 @@ global.sdc = " "
 global.snh = 'https://xhitori.my.id'
 
 /*============== PAYMENT ==============*/
-global.pdana = '082125276167'
+global.pdana = '_'
 global.povo = '_'
-global.pgopay = '_'
-global.ppulsa = '082125276167'
-global.ppulsa2 = '082125276167'
-global.psaweria = 'https://saweria.co/nvkenn'
+global.pgopay = '6285171198283'
+global.ppulsa = '628981904040'
+global.ppulsa2 = '6285171198283'
+global.psaweria = 'https://saweria.co/TeknisiAnime'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6285171198283'
